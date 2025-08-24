@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/adXxE00jIaM5EmBGW3-o8NnXKhcHGhiQcyjBG_E5-ds/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/NDJuZXR3b3JrLm9y/Zy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNC8xOS1zY2Fs/ZWQtMS0xMDI0eDY0/MC5qcGc" alt="42 Network Global Map" width="400" />
+  <img src="https://imgs.search.brave.com/adXxE00jIaM5EmBGW3-o8NnXKhcHGhiQcyjBG_E5-ds/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/NDJuZXR3b3JrLm9y/Zy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNC8xOS1zY2Fs/ZWQtMS0xMDI0eDY0/MC5qcGc" alt="42 Network Global Map" width="700" />
 </p>
 
 # 🏊 UM6P 42 Piscine – My Journey
