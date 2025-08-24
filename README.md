@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Network Logo" width="150" />
+  <img src="<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ansettaf?1337Badge=off&42Network=off" alt="ansettaf's 42 stats" /></a>" alt="42 Network Logo" width="150" />
 </p>
 
 <p align="center">
