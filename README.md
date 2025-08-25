@@ -3,13 +3,7 @@
     <img src="https://badge.mediaplus.ma/colorfulwaves/ansettaf?1337Badge=off&42Network=off" alt="ansettaf's 42 stats" />
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://imgs.search.brave.com/adXxE00jIaM5EmBGW3-o8NnXKhcHGhiQcyjBG_E5-ds/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/NDJuZXR3b3JrLm9y/Zy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNC8xOS1zY2Fs/ZWQtMS0xMDI0eDY0/MC5qcGc" alt="42 Network Global Map" width="700" />
-</p>
-
-# 🏊 UM6P 42 Piscine – My Journey
+# 🏊 UM6P – My Journey
 
 This repository contains all the projects I completed during the **42 Piscine at UM6P**.  
 The Piscine was not only a technical challenge—it was a **transformative experience** that tested my discipline, creativity, and resilience in problem-solving.  
