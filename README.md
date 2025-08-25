@@ -73,7 +73,7 @@ For me, the Piscine was much more than coding:
 ---
 
 ## 📫 Let’s Connect
-- **Name:** Anass Piwa  
+- **Name:** Anass settaf
 - **GitHub:** [@anasspiwa](https://github.com/anasspiwa)  
 - **LinkedIn:** *(https://www.linkedin.com/in/anass-settaf-9a34a4327/)*  
 
